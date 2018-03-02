@@ -1,2 +1,12 @@
 
+
 Welcome to DBA scripts
+steps
+Procedure to Install SQL Server 2016
+Firstly, double-click on the setup.exe from the root folder of server installation. For the installation of SQL Server 2016
+from the network share, after locating the root folder then, click on setup.exe.
+Now, click on the Installation option, which is at the left-hand of the navigation area and then, click on the “New 
+SQL Server standalone installation or add or add features to existing installation” option.
+Choose an option from the product key page that indicates that shows the edition update of SQL Server is free or production edition >> 
+click Next.
+Choose an option of “I accept the license terms” >> click Next to continue the process.
